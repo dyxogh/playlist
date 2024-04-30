@@ -16,7 +16,7 @@ https://epg.pw/stream/bf04aadae6b900db1b404cc8a35789a737c58049146a4d49a982509021
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视频道·IPv6",CCTV-7 国防军事
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视频道·IPv6",CCTV-8 电视剧
-http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
+https://epg.pw/stream/cb997f441801a5bca8c092be9816cd3915e26d24e20df6a2e511d3c750eea86e.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视频道·IPv6",CCTV-9 纪录
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视频道·IPv6",CCTV-10 科教
